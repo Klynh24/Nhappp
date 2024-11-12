@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:\\sqlite-amalgamation-3470000\\sqlite-amalgamation-3470000", 
+                "C:\\Qt\\6.7.3\\mingw_64\\include", 
+                "C:\\Qt\\6.7.3\\mingw_64\\include\\QtWidgets",
+                "C:\\Qt\\6.7.3\\mingw_64\\include\\QtCore"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.22621.0",
+            "compilerPath": "cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-msvc-x64"
+        }
+    ],
+    "version": 4
+}
